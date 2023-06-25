@@ -23,7 +23,7 @@
         if (typedGreeting.length != greeting.length) {
       typedGreeting += greeting.charAt(index);
       index++;
-      setTimeout(typeGreeting, 10)
+      setTimeout(typeGreeting, 20)
     }
     }
 </script>
